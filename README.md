@@ -1,2 +1,1 @@
-# Just a normal NumberGuessingGame 
-# Not a Nuclear Theory ;)
+# Guess The Damn Number :)
