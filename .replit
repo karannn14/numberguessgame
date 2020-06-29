@@ -1,2 +1,2 @@
 run = "pip install pyfiglet"
-language = "python3.6"
+language = "python3"
